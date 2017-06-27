@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "PrintName"
   s.version      = "0.0.1"
-  s.summary      = “print our name hello world.”
+  s.summary      = "print our name hello world."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-	       it is only to print hello world . it have a static method to do this.
+                  打印自己的名字而已,打印自己的名字而已,打印自己的名字而已,打印自己的名字而已
                    DESC
 
   s.homepage     = "https://github.com/newbambo/CreateMyPods.git"
