@@ -7,11 +7,10 @@
 //
 
 #import "FYXPrintName.h"
-#import <UIKit/UIKit.h>
 
 @implementation FYXPrintName
 +(void)printOurName{
     UIImage * image = [UIImage imageNamed:@"screenShot.png"];
-    NSLog(@"Hello world!%@",NSStringFromCGRect(image.size));
+    NSLog(@"Hello world!%@",NSStringFromCGSize(image.size));
 }
 @end
